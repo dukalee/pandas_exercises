@@ -1,0 +1,16 @@
+emp_id,name,department,salary,years
+1,Sarah Clark,Sales,4200.0,3.0
+2,James Rodriguez,Engineering,5500.0,7.0
+3,Jessica Lewis,HR,,
+4,Michael Walker,Engineering,6100.0,9.0
+5,Ashley Hall,Marketing,4700.0,4.0
+6,David Young,Engineering,5800.0,
+7,Amanda King,Sales,4100.0,3.0
+8,Christopher Wright,HR,3800.0,1.0
+9,Elizabeth Lopez,Marketing,4900.0,5.0
+10,Daniel Hill,Engineering,5200.0,
+11,Megan Scott,Sales,4300.0,2.0
+12,Matthew Green,HR,,3.0
+13,Lauren Adams,Marketing,4600.0,4.0
+14,Andrew Baker,Engineering,6300.0,10.0
+15,Rachel Nelson,Sales,4450.0,3.0

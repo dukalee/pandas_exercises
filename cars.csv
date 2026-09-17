@@ -1,0 +1,16 @@
+model,brand,year,price_thousand,mileage_km,fuel_type
+Elantra,Hyundai,2020,16.5,45000.0,Gasoline
+Sonata,Hyundai,2019,21.0,62000.0,Gasoline
+Grandeur,Hyundai,2021,38.0,28000.0,Gasoline
+K5,Kia,2022,,,Gasoline
+K8,Kia,2023,39.0,8000.0,Hybrid
+Sportage,Kia,2020,26.0,53000.0,Diesel
+Tucson,Hyundai,2018,22.0,71000.0,Diesel
+Seltos,Kia,2021,23.0,,Gasoline
+Carnival,Kia,2019,33.0,58000.0,Diesel
+Palisade,Hyundai,2022,42.0,20000.0,Gasoline
+Morning,Kia,2017,10.5,88000.0,Gasoline
+Ray,Kia,2018,12.0,75000.0,Gasoline
+G80,Genesis,2021,58.0,25000.0,Gasoline
+G90,Genesis,2023,,9000.0,Gasoline
+EV6,Kia,2022,45.0,,Electric

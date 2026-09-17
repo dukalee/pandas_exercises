@@ -1,0 +1,21 @@
+order_id,customer,product,amount,order_date
+ORD0001,James Carter,Laptop,1500.0,2026-08-01
+ORD0002,Emily Turner,Mouse,25.0,2026-08-02
+ORD0003,Robert Phillips,Keyboard,45.0,2026-08-03
+ORD0004,Laura Campbell,Monitor,320.0,2026-08-04
+ORD0005,William Parker,Laptop,,2026-08-05
+ORD0006,Grace Evans,Headphones,89.0,2026-08-06
+ORD0007,Henry Collins,Mouse,27.0,2026-08-07
+ORD0008,Nicole Stewart,Monitor,310.0,2026-08-08
+ORD0009,James Carter,Keyboard,48.0,2026-08-09
+ORD0010,Daniel Morris,Laptop,1600.0,2026-08-10
+ORD0011,Sophie Reed,Headphones,95.0,2026-08-11
+ORD0012,Oliver Bell,Monitor,330.0,2026-08-12
+ORD0013,Robert Phillips,Mouse,26.0,2026-08-13
+ORD0014,Chloe Murphy,Laptop,,2026-08-14
+ORD0015,Jack Cooper,Keyboard,42.0,2026-08-15
+ORD0016,James Carter,Headphones,92.0,2026-08-16
+ORD0017,Emily Turner,Monitor,315.0,2026-08-17
+ORD0018,Ryan Bailey,Laptop,1480.0,2026-08-18
+ORD0019,Henry Collins,Mouse,29.0,2026-08-19
+ORD0020,Sophie Reed,Keyboard,,2026-08-20

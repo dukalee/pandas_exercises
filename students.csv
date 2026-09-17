@@ -1,0 +1,16 @@
+student_id,name,city,grade,math_score,english_score,total_score
+1,Emma Johnson,New York,1,88.0,76.0,164.0
+2,Liam Smith,Boston,2,72.0,85.0,157.0
+3,Olivia Brown,Chicago,1,95.0,,
+4,Noah Davis,Austin,3,,58.0,
+5,Ava Wilson,Seattle,2,79.0,82.0,161.0
+6,Ethan Miller,New York,1,91.0,95.0,186.0
+7,Sophia Moore,Denver,3,55.0,,
+8,Mason Taylor,Boston,2,84.0,71.0,155.0
+9,Isabella Anderson,New York,1,99.0,88.0,187.0
+10,Lucas Thomas,Miami,3,67.0,70.0,137.0
+11,Mia Jackson,Seattle,2,,91.0,
+12,Logan White,New York,1,89.0,80.0,169.0
+13,Charlotte Harris,Boston,3,58.0,60.0,118.0
+14,Benjamin Martin,Chicago,2,77.0,,
+15,Amelia Thompson,New York,1,82.0,86.0,168.0
